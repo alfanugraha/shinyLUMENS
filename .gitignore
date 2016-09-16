@@ -4,5 +4,8 @@
 .Ruserdata
 
 log/*
+!log/.gitkeep
 dist/R-Portable/*
+!dist/R-Portable/.gitkeep
 app/library/*
+!app/library/.gitkeep
