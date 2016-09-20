@@ -11,3 +11,6 @@ jsonlite
 shiny
 raster
 shinydashboard
+
+maps
+mapproj
